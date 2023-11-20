@@ -1,4 +1,4 @@
-package com.wtech;
+package com.wtech.proc;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
